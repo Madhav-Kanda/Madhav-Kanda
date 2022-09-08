@@ -2,6 +2,7 @@
 
 - 🚀 A Third year Undergraduate in the discipline of Computer Science and Engineering at IIT Gandhinagar.
 - 👀 Interested in Machine Learning and its applications.
+- ✉️ Email me on madhav.kanda@iitgn.ac.in
 - 🌱 Past experience of working as a research intern at MILE Labs, IISc. Bangalore.
 
 ## <samp>&gt; Connect with me on :
