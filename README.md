@@ -10,6 +10,8 @@ src="https://img.shields.io/twitter/follow/madhav_kanda_?logo=twitter&style=for-
 /></a><a href="https://www.github.com/Madhav-Kanda" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Madhav-Kanda?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 ### Skills
 
 <p align="left">
