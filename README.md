@@ -3,8 +3,8 @@
 - 🚀 A Third year Undergraduate in the discipline of Computer Science and Engineering at IIT Gandhinagar.
 - 👀 Interested in Machine Learning and its applications.
 - ✉️ Email me on madhav.kanda@iitgn.ac.in
-- ⚡️ Working as a Research Assistant in PML group, Aalto University.
-- 🌱 Past experience of working as a research intern at MILE Labs, IISc. Bangalore.
+- ⚡️ Working as a Research Assistant under Prof. Aki Vehtari and Dr. Nikolas Siccha in PML group, Aalto University.
+- 🌱 Past experience of working as a research intern under Prof. A.G. Ramakrishnan, MILE Labs, IISc. Bangalore.
 
 <a href="https://www.twitter.com/madhav_kanda_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/madhav_kanda_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
