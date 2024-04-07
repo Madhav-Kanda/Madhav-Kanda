@@ -1,7 +1,6 @@
 ## <samp>&gt; Hi there, I'm Madhav
 
 - 🚀 A Final year Undergraduate in the discipline of Computer Science and Engineering at IIT Gandhinagar.
-- ✨ Applying for MS in Computer Science (Fall'24)
 - 👀 Interested in Active Learning, Bayesian Inference, Generative Adversarial Networks (GAN), and machine learning applications.
 - ✉️ Email me on madhav.kanda@iitgn.ac.in
 - ⚡️ Working as a Research Assistant under Prof. Aki Vehtari, PML group, Aalto University.
