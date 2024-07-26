@@ -1,10 +1,9 @@
 ## <samp>&gt; Hi there, I'm Madhav
 
-- 🚀 A Final year Undergraduate in the discipline of Computer Science and Engineering at IIT Gandhinagar.
-- 👀 Interested in Active Learning, Bayesian Inference, Generative Adversarial Networks (GAN), and machine learning applications.
-- ✉️ Email me on madhav.kanda@iitgn.ac.in
-- ⚡️ Working as a Research Assistant under Prof. Aki Vehtari, PML group, Aalto University.
-- 🌱 Past experience of working as a research intern under Prof. A.G. Ramakrishnan, MILE Labs, IISc. Bangalore.
+- 🚀 Incoming MS CS student @ UIUC.
+- 👀 Interested in Active Learning, Bayesian Inference, Generative Adversarial Networks (GAN), Probabilistic Programming and Machine learning applications.
+- ✉️ Email me on madhavkanda@gmail.com
+- 🌱 Past experience of working as a research intern under Prof. A.G. Ramakrishnan, MILE Labs, IISc. Bangalore and Prof. Aki Vehtari, PML group, Aalto University.
 
 <a href="https://www.twitter.com/madhav_kanda_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/madhav_kanda_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
