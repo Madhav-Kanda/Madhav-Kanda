@@ -1,8 +1,8 @@
 ## <samp>&gt; Hi there, I'm Madhav
 
-- 🚀 Incoming MS CS student @ UIUC.
-- 👀 Interested in Active Learning, Bayesian Inference, Generative Adversarial Networks (GAN), Probabilistic Programming and Machine learning applications.
-- ✉️ Email me on madhavkanda@gmail.com
+- 🚀 MS CS (Thesis) student @ UIUC.
+- 👀 Interested in Multimodal Multi-agent systems, Error-free LLM-driven Code Generation, Program Repair using LLMs and Bayesian learning. 
+- ✉️ Email me on madhav3@illinois.edu
 - 🌱 Past experience of working as a research intern under Prof. A.G. Ramakrishnan, MILE Labs, IISc. Bangalore and Prof. Aki Vehtari, PML group, Aalto University.
 
 <a href="https://www.twitter.com/madhav_kanda_" target="_blank" rel="noreferrer"><img
