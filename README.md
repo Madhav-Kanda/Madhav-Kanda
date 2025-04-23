@@ -1,7 +1,7 @@
 ## <samp>&gt; Hi there, I'm Madhav
 
 - 🚀 MS CS (Thesis) student @ UIUC.
-- 👀 Interested in Multimodal Multi-agent systems, Error-free LLM-driven Code Generation, Program Repair using LLMs and Bayesian learning. 
+- 👀 Interested in Multimodal Multi-agent systems, Bug-free LLM-driven Code Generation, Program Repair using LLMs and Bayesian learning. 
 - ✉️ Email me on madhav3@illinois.edu
 - 🌱 Past experience of working as a research intern under Prof. A.G. Ramakrishnan, MILE Labs, IISc. Bangalore and Prof. Aki Vehtari, PML group, Aalto University.
 
