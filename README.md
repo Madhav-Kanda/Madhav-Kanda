@@ -11,7 +11,6 @@ I work on **inference optimization and efficient training** for language models.
 
 - **Efficient generation** — diffusion models, speculative decoding, and distillation.
 - **Scalable AI systems** — efficient inference for agentic workflows and synthetic data generation.
-- **Reliable agents** — understanding and evaluating how language models work together on complex tasks.
 
 ### 🎓 A little background
 
